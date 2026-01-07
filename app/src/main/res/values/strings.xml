@@ -1,0 +1,43 @@
+
+<resources>
+        <string name="app_name">HostelBuddy</string>
+
+        <!-- Navigation -->
+        <string name="nav_home">Home</string>
+        <string name="nav_post">Post</string>
+        <string name="nav_activity">Activity</string>
+
+        <!-- Home Page -->
+        <string name="orders_at_gate">Orders waiting at gate</string>
+        <string name="all_orders">All Orders</string>
+        <string name="food">Food</string>
+        <string name="medicine">Medicine</string>
+        <string name="other">Other</string>
+        <string name="volunteer_to_pick">Volunteer to Pick</string>
+
+        <!-- Post Page -->
+        <string name="post_update">Post Update</string>
+        <string name="help_or_get_help">Help or get help from buddies</string>
+        <string name="im_going_to_gate">I\'m Going to Gate</string>
+        <string name="need_help">Need Help</string>
+
+        <!-- Form Fields -->
+        <string name="select_block">Select Block</string>
+        <string name="room_number">Room No.</string>
+        <string name="description">Description</string>
+        <string name="submit">Submit</string>
+        <string name="urgency">Urgency</string>
+        <string name="low">Low</string>
+        <string name="medium">Medium</string>
+        <string name="high">High</string>
+
+        <!-- Activity Page -->
+        <string name="my_activity">My Activity</string>
+        <string name="track_your_journey">Track your buddy journey</string>
+
+        <!-- Blocks -->
+        <string name="block_a">Block A</string>
+        <string name="block_b">Block B</string>
+        <string name="block_c">Block C</string>
+        <string name="block_d">Block D</string>
+</resources>
